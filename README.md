@@ -51,4 +51,3 @@ I've acquired a lot of essential knowledge with:
 
 Go to [The Odin Project](https://www.theodinproject.com/) to discover the course ! 👈
 </div>
-# Restaurant-Page
