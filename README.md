@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/Restaurant-Page/blob/main/dist/images/restaurant-page.jpg" width="90"/>
+  <img src="https://github.com/LaOuede/Restaurant-Page/blob/main/dist/images/restaurant-page.png" width="90"/>
 </p>
 
 <h1 align=center>Restaurant Page</h1>
